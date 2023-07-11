@@ -1,0 +1,15 @@
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\bin\Debug\net7.0\MyFirstCSharpProject.exe
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\bin\Debug\net7.0\MyFirstCSharpProject.deps.json
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\bin\Debug\net7.0\MyFirstCSharpProject.runtimeconfig.json
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\bin\Debug\net7.0\MyFirstCSharpProject.dll
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\bin\Debug\net7.0\MyFirstCSharpProject.pdb
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\MyFirstCSharpProject.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\MyFirstCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\MyFirstCSharpProject.AssemblyInfoInputs.cache
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\MyFirstCSharpProject.AssemblyInfo.cs
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\MyFirstCSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\MyFirstCSharpProject.dll
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\refint\MyFirstCSharpProject.dll
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\MyFirstCSharpProject.pdb
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\MyFirstCSharpProject.genruntimeconfig.cache
+C:\Users\Misha\Desktop\GitHub\c#_practice\MyFirstCSharpProject\obj\Debug\net7.0\ref\MyFirstCSharpProject.dll
