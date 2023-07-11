@@ -1,0 +1,27 @@
+If you're just doing quick practice with C#, you might not need to create and build a whole project. You could just write C# scripts and run them directly using the `dotnet script` tool.
+
+Here's how you can do it:
+
+1. **Install the `dotnet-script` tool:** Open your terminal and run the following command to install `dotnet-script` globally:
+
+    ```bash
+    dotnet tool install -g dotnet-script
+    ```
+
+2. **Write your C# script:** You can write C# code in a file with the `.csx` extension (for C# script). For example, create a file named `HelloWorld.csx` and write the following code in it:
+
+    ```csharp
+    Console.WriteLine("Hello, World!");
+    ```
+
+3. **Run your C# script:** In your terminal, navigate to the directory that contains your `.csx` file. Then, use the following command to run your script:
+
+    ```bash
+    dotnet script HelloWorld.csx
+    ```
+
+With this approach, you don't need to create and build a project. You can just write your C# code and run it directly.
+
+Note that while this is great for quick practice and learning, it's not the way you would typically write a larger application in C#. For larger applications, you would usually create a project with a .csproj file, write your code in .cs files, and build and run your application using `dotnet build` and `dotnet run`.
+
+One more thing to remember: .NET Core 3.1 or later is required to use the `dotnet script` tool. If you don't have it already, you can download it from Microsoft's [official .NET download page](https://dotnet.microsoft.com/download).
